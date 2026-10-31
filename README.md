@@ -1,4 +1,4 @@
-.# ECHOES--nasa-2026<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ECHOES - Abandoned but not Forgotten</title>
 <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@600;700&family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
